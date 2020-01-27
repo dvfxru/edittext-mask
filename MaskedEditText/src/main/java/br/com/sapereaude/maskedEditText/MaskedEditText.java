@@ -21,7 +21,7 @@ import static android.content.ContentValues.TAG;
 public class MaskedEditText extends AppCompatEditText implements TextWatcher {
 
     public static final String SPACE = " ";
-    private String mask;
+    private String mask = "";
 	private char charRepresentation;
 	private boolean keepHint;
 	private int[] rawToMask;
