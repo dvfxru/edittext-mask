@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         MaskedEditText maskedEditText = findViewById(R.id.phone_input);
+
+        maskedEditText.setKeepHint(true);
     }
 }
