@@ -1,4 +1,4 @@
-package br.com.sapereaude.maskedEditText;
+package br.com.sapereaude.maskededittext;
 
 /**
  * Raw text, another words TextWithout mask characters

@@ -1,4 +1,4 @@
-package br.com.sapereaude.maskedEditText;
+package br.com.sapereaude.maskededittext;
 
 public class Range {
 	private int start;
